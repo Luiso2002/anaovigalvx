@@ -7,6 +7,7 @@ body {
     flex-direction: column;
     justify-content: flex-start; /* Asegura que el contenido fluya hacia abajo */
     width: 100%;
+    height: auto;
 }
 
 /* Cabecera */
